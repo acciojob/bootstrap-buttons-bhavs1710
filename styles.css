@@ -2,15 +2,20 @@
 /* Your CSS Code here. */
 #button-1{
 	background-color:blue;
+	color:white;
 }
 #button-2{
 	background-color:white;
+	color:blue;
 }
 #button-3{
 	background-color:green;
+	border-radius:2px;
+	color:white;
 }
 #button-4{
 	background-color:red;
+	color:white;
 }
 #button-5{
 	background-color:yellow;
